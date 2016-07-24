@@ -1,0 +1,8 @@
+{
+  "name": "Trotik-server",
+  "description": "server-side app to support client application trotik-client",
+  "repository": "https://github.com/heroku/node-js-getting-started",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "express", "static"],
+  "image": "heroku/nodejs"
+}

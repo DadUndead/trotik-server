@@ -1,0 +1,31 @@
+{
+  "name": "trotik-server",
+  "version": "1.0.0",
+  "description": "server-side app to support client application trotik-client",
+  "engines": {
+    "node": "5.9.1"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DadUndead/trotik-server.git"
+  },
+  "keywords": [
+    "trotik"
+  ],
+  "author": "aklimenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DadUndead/trotik-server/issues"
+  },
+  "homepage": "https://github.com/DadUndead/trotik-server#readme",
+  "dependencies": {
+    "ejs": "^2.4.2",
+    "express": "^4.14.0",
+    "mongodb": "^2.2.4",
+    "mongoose": "^4.5.6"
+  }
+}
